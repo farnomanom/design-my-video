@@ -1,0 +1,24 @@
+# Environments, models and builds (rebuilt locally, never committed)
+.venv/
+tools/envs/
+tools/bin/
+tools/security/
+models/
+build/
+*.dmg
+__pycache__/
+*.pyc
+
+# Project media and outputs
+inputs/
+analysis/
+*.mov
+*.mp4
+*.m4v
+*.wav
+*.fcpxml
+*.fcpxmld/
+
+# macOS
+.DS_Store
+._*

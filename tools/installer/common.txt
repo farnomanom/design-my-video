@@ -1,0 +1,12 @@
+faster-whisper
+librosa
+pyloudnorm
+opencv-python-headless<5
+numpy
+soundfile
+skia-python
+colour-science
+pydantic
+anthropic
+requests
+otio-fcpx-xml-adapter
